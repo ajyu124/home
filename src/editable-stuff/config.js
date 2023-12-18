@@ -43,10 +43,10 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/Me.png"),
   imageSize: 375,
   message:
-    "My name is Angus Jyu. I'm a new graduate from the University of Illinois at Urbana-Champaign with a degree in Statistics and Computer Science, and I'm currently searching for a full-time job. I'm a data enthusiast, constantly embarking on new big-data projects based on whatever currently piques my curiosity. I also enjoy software and web development, using my skills to fuel my passions for my other hobby communities, often reaching thousands of people through the software and websites I create.",
+    "My name is Angus Jyu. I'm a recent graduate from the University of Illinois at Urbana-Champaign with a degree in Statistics and Computer Science, and I'm currently searching for a full-time job. I'm a data enthusiast, constantly embarking on new big-data projects based on whatever currently piques my curiosity. I also enjoy software and web development, using my skills to fuel my passions for my other hobby communities, often reaching thousands of people through the software and websites I create.",
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
@@ -119,7 +119,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time Software Engineering, Data Science, or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "angusjyu@yahoo.com",
+  email: "jyuangus@gmail.com",
 };
 
 const experiences = {
